@@ -59,4 +59,8 @@ ok, move on
     POSSIBLE CONFLICTS
     lets move on, and create a big feature
 
+    so we create a new branch, add some stuff, and commit, push, and create a pull request
 
+    - so, while the pull request is out, we create a new branch 
+    - lets call it CONFLICT
+    
