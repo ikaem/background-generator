@@ -66,3 +66,4 @@ ok, move on
     . so i make changes, i add, i commit, but i dont push yet
     - and other people approve the pull request before i push the commit
     
+    - every now and then we want to merge with master so we can update with stuff that other teammates have done
