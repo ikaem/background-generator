@@ -63,4 +63,6 @@ ok, move on
 
     - so, while the pull request is out, we create a new branch 
     - lets call it CONFLICT
+    . so i make changes, i add, i commit, but i dont push yet
+    - and other people approve the pull request before i push the commit
     
