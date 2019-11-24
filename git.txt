@@ -52,6 +52,11 @@ ok, move on
         - and we change a file
         - and then if check git status, we will see that a file has been modified
     - WE NEED TO BE IN A FOLDER THAT HAS .GIT FOLDER IN IT
-    
+    - there might be issue with setting upstream something...
+    - ok, so we go online, to the branch, and we create a pull request
+    - there is an option to requeste a merge pull - so we can merge the branch with the master, where branch changes will be in the master
+
+    POSSIBLE CONFLICTS
+    lets move on, and create a big feature
 
 
