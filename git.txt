@@ -1,0 +1,57 @@
+multiple people can work on the same project
+allows for collaboration
+
+1. setup github account
+2. we should use terminal
+
+ok, so
+1. create a new repository online
+2. make it public, and initialize it with a readme
+3. clone or donwloand - USE SSH - copy link to keyboard
+4. go to the terminal
+5. go to the folder where the project is
+    a. in terminal
+    b. then, commands
+        - git clone // and then the link
+            - it means clone this project from github.com
+                - i guess from out computer to there
+        - IN THE folder on the computer, now we got a new folder
+            - .git folder, hidder
+                - this one allows to communicate with github
+        - now, we can copy the actual project files and put them into the background-generator folder - the one that was created by cloning
+6. now, in terminal, we go into the github project - background generator in this case
+    a. in terminal, this folder will be shown as master folder
+    b. now we can look our files
+7. now, we need to sync files so that files on our computer are on the actual github online
+    - git status
+        - this command shows status of our files - commited, tracked and so on
+    - git add filename
+        - for all files DO 
+            - git add .
+        - this way we are adding files for tracking
+    - git status again
+        - now, we have added files that need to be commited (synced, i guess)
+8. now, we commit our changes
+    - we are commiting our changes 
+        - we can add message to the commit
+        - git commit -m "adding starting project"
+9. now, we need to let github.com know that these are the changes
+    - git push
+    - and now, files are online on github
+
+/// ok, now we need to have other people work on the project
+- so they need to pick it up from the repository
+
+1. so we go to our folder where the project will be on our computer
+    - we do the same, we clone the repository - the link from github.com
+        git clone https://github.com/ikaem/background-generator.git
+
+now we are working with files 
+ok, move on
+    - lets say we work on files in master directory
+        - and we change a file
+        - and then if check git status, we will see that a file has been modified
+    - WE NEED TO BE IN A FOLDER THAT HAS .GIT FOLDER IN IT
+    
+
+
